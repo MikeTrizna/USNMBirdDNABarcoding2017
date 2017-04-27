@@ -5,7 +5,7 @@ This repository contains data and code used for the publication "DNA Barcoding, 
 ## Table of Contents of Notebooks:
 1. Creating Table 1 -- Sequence record and species counts
 2. Alignment and distance commands
-3. Creating a species-level distance summary
+3. [Creating species-level distance summaries](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20species-level%20distance%20summaries.ipynb)
 4. Creating Table 2 -- Species-level summary before and after dataset
 5. Creating Figure 1 -- Geographic distribution map of sequence records
 6. Creating Figure 2 -- Bivariate plot of maximum divergence between members of a species versus minimum divergence between species for the most similar members of each species
