@@ -3,13 +3,14 @@
 This repository contains data and code used for the publication "DNA Barcoding, Collection Management, and the Bird Collection in the Smithsonian’s National Museum of Natural History" by Schindel et al.
 
 ## Table of Contents of Notebooks:
-1. Creating Table 1 -- Sequence record and species counts
-2. Alignment and distance commands
-3. [Creating species-level distance summaries](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20species-level%20distance%20summaries.ipynb)
-4. [Creating Table 2 -- Species-level summary before and after dataset](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Table%202%20--%20Species-level%20summary%20before%20and%20after%20dataset.ipynb)
-5. Creating Figure 1 -- Geographic distribution map of sequence records
-6. [Creating Figure 2 -- Bivariate plot of maximum divergence between members of a species versus minimum divergence between species for the most similar members of each species](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Figure%202%20--%20Bivariate%20plot.ipynb)
-7. Creating Supplementary Figure 1: Full Maximum Likelihood tree of USNM Bird dataset
+1. [Initializing the datasets](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb)
+2. Creating Table 1 -- Sequence record and species counts
+3. Alignment and distance commands
+4. [Creating species-level distance summaries](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20species-level%20distance%20summaries.ipynb)
+5. [Creating Table 2 -- Species-level summary before and after dataset](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Table%202%20--%20Species-level%20summary%20before%20and%20after%20dataset.ipynb)
+6. Creating Figure 1 -- Geographic distribution map of sequence records
+7. [Creating Figure 2 -- Bivariate plot of maximum divergence between members of a species versus minimum divergence between species for the most similar members of each species](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Figure%202%20--%20Bivariate%20plot.ipynb)
+8. Creating Supplementary Figure 1: Full Maximum Likelihood tree of USNM Bird dataset
 
 ## Data
 The "data" directory contains input data files that are used for analyses documented by the various Jupyter notebooks. Please refer to the README file in the data directory for a full description of all files there (and also files that were too large to be stored in GitHub).
