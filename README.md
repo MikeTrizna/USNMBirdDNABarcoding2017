@@ -4,7 +4,7 @@ This repository contains data and code used for the publication "DNA Barcoding, 
 
 ## Table of Contents of Notebooks:
 1. [Initializing the datasets](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb)
-2. Creating Table 1 -- Sequence record and species counts
+2. [Creating Table 1 -- Sequence record and species counts](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Table%201%20--%20Sequence%20record%20and%20species%20counts.ipynb)
 3. Alignment and distance commands
 4. [Creating species-level distance summaries](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20species-level%20distance%20summaries.ipynb)
 5. [Creating Table 2 -- Species-level summary before and after dataset](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Table%202%20--%20Species-level%20summary%20before%20and%20after%20dataset.ipynb)
