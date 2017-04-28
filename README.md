@@ -8,7 +8,7 @@ This repository contains data and code used for the publication "DNA Barcoding, 
 3. Alignment and distance commands
 4. [Creating species-level distance summaries](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20species-level%20distance%20summaries.ipynb)
 5. [Creating Table 2 -- Species-level summary before and after dataset](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Table%202%20--%20Species-level%20summary%20before%20and%20after%20dataset.ipynb)
-6. Creating Figure 1 -- Geographic distribution map of sequence records
+6. [Creating Figure 1 -- Geographic distribution map of sequence records](http://nbviewer.jupyter.org/github/MikeTrizna/Creating%20Figure%201%20--%20Geographic%20distribution%20map%20of%20sequence%20records.ipynb)
 7. [Creating Figure 2 -- Bivariate plot of maximum divergence between members of a species versus minimum divergence between species for the most similar members of each species](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Figure%202%20--%20Bivariate%20plot.ipynb)
 8. Creating Supplementary Figure 1: Full Maximum Likelihood tree of USNM Bird dataset
 
