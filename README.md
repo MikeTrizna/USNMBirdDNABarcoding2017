@@ -22,8 +22,8 @@ The "data" directory contains input data files that are used for analyses docume
 * Maximum Likelihood Tree was created using [FastTree](http://www.microbesonline.org/fasttree/) version 2.1.8.
 
 ### Executing Jupyter Notebooks
-The .ipynb files are Jupyter notebooks, which can be downloaded and executed if you have Python and Jupyter installed on your computer. There are also a few required Python libraries, and you can install these by running:
-pip install requirements.txt
+The .ipynb files are Jupyter notebooks, which can be downloaded and executed if you have Python and Jupyter installed on your computer. There are also a few required Python libraries.
+
 ### Python libraries used
 * [Ete3](http://etetoolkit.org/) was used to annotate and visualize trees produced by FastTree
 * [Pandas](http://pandas.pydata.org/) was used to read in distance files and calculate species distance summaries
