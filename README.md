@@ -17,15 +17,15 @@ The "data" directory contains input data files that are used for analyses docume
 
 ## Required Software
 ### Command-line bioinformatics tools
-* Alignment was done using MAFFT version .
-* Distance calculations were done using Mothur version 
-* Maximum Likelihood Tree was created using FastTree version
+* Alignment was done using [MAFFT](http://mafft.cbrc.jp/alignment/software/) version 7.221.
+* Distance calculations were done using [Mothur](https://www.mothur.org/) version 1.39.0.
+* Maximum Likelihood Tree was created using [FastTree](http://www.microbesonline.org/fasttree/) version 2.1.8.
 
 ### Executing Jupyter Notebooks
 The .ipynb files are Jupyter notebooks, which can be downloaded and executed if you have Python and Jupyter installed on your computer. There are also a few required Python libraries, and you can install these by running:
 pip install requirements.txt
 ### Python libraries used
-* Ete3 used to annotate and visualize trees produced by FastTree
-* Pandas used to read in distance files and calculate species distance summaries
-* Basemap and Folium used to create distribution maps
-* Seaborn and Bokeh used to create species inter/intra-specific distance plots
+* [Ete3](http://etetoolkit.org/) was used to annotate and visualize trees produced by FastTree
+* [Pandas](http://pandas.pydata.org/) was used to read in distance files and calculate species distance summaries
+* [Basemap](https://matplotlib.org/basemap/) and [Folium](https://github.com/python-visualization/folium) were used to create distribution maps
+* [Seaborn](https://seaborn.pydata.org/) and [Bokeh](http://bokeh.pydata.org) were used to create species inter/intra-specific distance plots
