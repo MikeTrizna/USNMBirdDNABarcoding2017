@@ -13,7 +13,7 @@ This repository contains data and code used for the publication "DNA Barcoding, 
 8. [Creating Supplementary Figure 1: Full Maximum Likelihood tree of USNM Bird dataset](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Creating%20Supplementary%20Figure%201.ipynb)
 
 ## Data
-The "data" directory contains input data files that are used for analyses documented by the various Jupyter notebooks. Please refer to the README file in the data directory for a full description of all files there (and also files that were too large to be stored in GitHub).
+The ["data" directory](data/) contains input data files that are used for analyses documented by the various Jupyter notebooks. Please refer to the README file in the data directory for a full description of all files there (and also files that were too large to be stored in GitHub).
 
 ## Required Software
 ### Command-line bioinformatics tools
