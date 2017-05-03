@@ -9,14 +9,14 @@ This directory contains almost all of the data files that are used as either inp
 
 These files are all in TSV (tab-separated values) tabular format, and contain data about the specimens in each dataset. All files contain the same columns: "accession", "collection_date", "country", "lat_lon", "scientific_name", "specimen_voucher", "sequence_length", and "trace_count".
 
-They are created in the notebook [Initializing the datasets.ipynb](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb).
+They are created in the notebook [Initializing the datasets](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb).
 
 ### Unaligned sequence data files:
 * *unaligned_prior_usnm.fasta*, *unaligned_schindel2017.fasta*, and *unaligned_combined.fasta*
 
 These files are all in [FASTA format](https://en.wikipedia.org/wiki/FASTA_format), and contain the sequences for the records from the "before_schindel2011" and "schindel2017" datasets *that have at least 2 traces*. The file *unaligned_combined.fasta* combines the sequences from these 2 datasets.
 
-They are created in the notebook [Initializing the datasets.ipynb](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb).
+They are created in the notebook [Initializing the datasets](http://nbviewer.jupyter.org/github/MikeTrizna/USNMBirdDNABarcoding2017/blob/master/Initializing%20the%20datasets.ipynb).
 
 ## Processed
 
